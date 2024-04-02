@@ -1,0 +1,28 @@
+C:\Users\Ahmet Salih AKIN\source\repos\Kaizen\CodeGenerator\CodeGenerator\CodeGenerator\bin\Debug\net8.0\CodeGenerator.exe
+C:\Users\Ahmet Salih AKIN\source\repos\Kaizen\CodeGenerator\CodeGenerator\CodeGenerator\bin\Debug\net8.0\CodeGenerator.deps.json
+C:\Users\Ahmet Salih AKIN\source\repos\Kaizen\CodeGenerator\CodeGenerator\CodeGenerator\bin\Debug\net8.0\CodeGenerator.runtimeconfig.json
+C:\Users\Ahmet Salih AKIN\source\repos\Kaizen\CodeGenerator\CodeGenerator\CodeGenerator\bin\Debug\net8.0\CodeGenerator.dll
+C:\Users\Ahmet Salih AKIN\source\repos\Kaizen\CodeGenerator\CodeGenerator\CodeGenerator\bin\Debug\net8.0\CodeGenerator.pdb
+C:\Users\Ahmet Salih AKIN\source\repos\Kaizen\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\CodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Salih AKIN\source\repos\Kaizen\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\CodeGenerator.AssemblyInfoInputs.cache
+C:\Users\Ahmet Salih AKIN\source\repos\Kaizen\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\CodeGenerator.AssemblyInfo.cs
+C:\Users\Ahmet Salih AKIN\source\repos\Kaizen\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\CodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Salih AKIN\source\repos\Kaizen\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\CodeGenerator.dll
+C:\Users\Ahmet Salih AKIN\source\repos\Kaizen\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\refint\CodeGenerator.dll
+C:\Users\Ahmet Salih AKIN\source\repos\Kaizen\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\CodeGenerator.pdb
+C:\Users\Ahmet Salih AKIN\source\repos\Kaizen\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\CodeGenerator.genruntimeconfig.cache
+C:\Users\Ahmet Salih AKIN\source\repos\Kaizen\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\ref\CodeGenerator.dll
+C:\Users\Ahmet Salih AKIN\source\repos\Case Study\CodeGenerator\CodeGenerator\CodeGenerator\bin\Debug\net8.0\CodeGenerator.exe
+C:\Users\Ahmet Salih AKIN\source\repos\Case Study\CodeGenerator\CodeGenerator\CodeGenerator\bin\Debug\net8.0\CodeGenerator.deps.json
+C:\Users\Ahmet Salih AKIN\source\repos\Case Study\CodeGenerator\CodeGenerator\CodeGenerator\bin\Debug\net8.0\CodeGenerator.runtimeconfig.json
+C:\Users\Ahmet Salih AKIN\source\repos\Case Study\CodeGenerator\CodeGenerator\CodeGenerator\bin\Debug\net8.0\CodeGenerator.dll
+C:\Users\Ahmet Salih AKIN\source\repos\Case Study\CodeGenerator\CodeGenerator\CodeGenerator\bin\Debug\net8.0\CodeGenerator.pdb
+C:\Users\Ahmet Salih AKIN\source\repos\Case Study\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\CodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Salih AKIN\source\repos\Case Study\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\CodeGenerator.AssemblyInfoInputs.cache
+C:\Users\Ahmet Salih AKIN\source\repos\Case Study\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\CodeGenerator.AssemblyInfo.cs
+C:\Users\Ahmet Salih AKIN\source\repos\Case Study\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\CodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Salih AKIN\source\repos\Case Study\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\CodeGenerator.dll
+C:\Users\Ahmet Salih AKIN\source\repos\Case Study\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\refint\CodeGenerator.dll
+C:\Users\Ahmet Salih AKIN\source\repos\Case Study\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\CodeGenerator.pdb
+C:\Users\Ahmet Salih AKIN\source\repos\Case Study\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\CodeGenerator.genruntimeconfig.cache
+C:\Users\Ahmet Salih AKIN\source\repos\Case Study\CodeGenerator\CodeGenerator\CodeGenerator\obj\Debug\net8.0\ref\CodeGenerator.dll

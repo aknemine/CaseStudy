@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\InvoiceParser",
+    "\\InvoiceParser\\InvoiceParser",
+    "\\InvoiceParser\\InvoiceParser\\InvoiceParser",
+    "\\Question1",
+    "\\Question1\\CodeGenerator",
+    "\\Question1\\CodeGenerator\\CodeGenerator",
+    "\\Question3",
+    "\\Question3\\UniqueCodeGenerator",
+    "\\Question3\\UniqueCodeGenerator\\UniqueCodeGenerator"
+  ],
+  "SelectedNode": "\\InvoiceParser\\InvoiceParser\\InvoiceParser\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
